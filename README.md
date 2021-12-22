@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Racem</h1>
 <h3 align="center">A passionate Full Stack Web developer from Tunisia</h3>
 
-- 🔭 I’m currently working on [MyStore](https://github.com/racembouaicha/Angular)
 
-- 🌱 I’m currently learning **Angular11 **
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Symfony5 , Angular11**
+- 💬 Ask me about **Symfony**
 
 - 📫 How to reach me **bouaicharacem@fss.u-sfax.tn**
 
