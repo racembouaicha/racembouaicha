@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **node js , express js , mongodb**
 
 - 💬 Ask me about **ReactJs ,Symfony**
 
