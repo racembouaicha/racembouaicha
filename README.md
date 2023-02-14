@@ -3,8 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **node js , express js , mongodb**
-
 - 💬 Ask me about **ReactJs ,Symfony**
 
 - 📫 How to reach me **bouaicharacem@fss.u-sfax.tn**
