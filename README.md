@@ -3,13 +3,13 @@
 
 
 
-- 💬 Ask me about **ReactJs ,Symfony**
+- 💬 Ask me about **Drupal, ReactJs ,Symfony**
 
 - 📫 How to reach me **racem.bouaicha@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bouàïchà-racem-03a7b41b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouàïchà-racem-03a7b41b4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bouàïchà-racem-03a7b41b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouaicharacem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16605886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16605886" height="30" width="40" /></a>
 <a href="https://fb.com/racem.bouaicha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="racem.bouaicha" height="30" width="40" /></a>
 <a href="https://instagram.com/bouaicharacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bouaicharacem" height="30" width="40" /></a>
